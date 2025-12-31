@@ -1,4 +1,4 @@
-# Lirika Full Interpreter
+# Aerith Full Interpreter
 import sys, os, copy, importlib
 
 # ----------------------------
